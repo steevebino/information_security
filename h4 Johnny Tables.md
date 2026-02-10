@@ -30,4 +30,46 @@
   enabled it, 
   <img width="811" height="101" alt="Screenshot 2026-02-10 215642" src="https://github.com/user-attachments/assets/a7e9b17f-273b-4277-841f-6d664ac15694" />
 
+
+##  a)Install WebGoat
+
+<img width="1894" height="667" alt="Screenshot 2026-02-11 001008" src="https://github.com/user-attachments/assets/f611358c-d8c7-4988-ab70-62563b79e620" />
+
+## b)  F12. Solve Webgoat 2023.4: General: Developer tools.
+
+![WhatsApp Image 2026-02-11 at 00 40 27](https://github.com/user-attachments/assets/e55c660f-12a9-4d19-84ea-eb4c13918e91)
+
+
+## c)  Not outdated. Update all operating system and all applications in your Linux.
+
+![jpeg](https://github.com/user-attachments/assets/d428ed34-d1e8-4ad2-a43e-1c5a92625d85)
+
+## d) SQL Zoo
+
+<img width="1477" height="712" alt="Screenshot 2026-02-11 004826" src="https://github.com/user-attachments/assets/1422a8b5-73e0-482a-9d72-3e3088dc5caf" />
+
+<img width="1424" height="671" alt="Screenshot 2026-02-11 004923" src="https://github.com/user-attachments/assets/1f910f92-4539-4c90-ac40-77d427b43490" />
+
+<img width="1481" height="772" alt="Screenshot 2026-02-11 005022" src="https://github.com/user-attachments/assets/63da8acf-9edd-477d-8d2c-d79dbd627002" />
+
+
+
+## e) Portswigger Labs
+
+<img width="1871" height="951" alt="Screenshot 2026-02-11 005918" src="https://github.com/user-attachments/assets/8ce4e6d1-b7e5-46bb-add1-9df24df6e1b1" />
+
+The exploit uses the payload ' OR 1=1-- to manipulate the database query.
+
+' (Single Quote): Breaks out of the category string.
+
+OR 1=1: A "tautology" (always true) that forces the database to return every row.
+
+-- (Double Dash): Comments out the rest of the original code (like AND released = 1), bypassing the "hidden" restriction.
+
+Result: The database ignores the "released" filter and displays all products.
+
+
+
+
+
   
