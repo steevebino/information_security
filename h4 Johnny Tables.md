@@ -58,15 +58,15 @@
 
 <img width="1871" height="951" alt="Screenshot 2026-02-11 005918" src="https://github.com/user-attachments/assets/8ce4e6d1-b7e5-46bb-add1-9df24df6e1b1" />
 
-The exploit uses the payload ' OR 1=1-- to manipulate the database query.
+The exploit ' OR 1=1-- "tricks" the checklist:
 
-' (Single Quote): Breaks out of the category string.
+' (The Key): You use a single quote to "unlock" the text box so you can write your own rules.
 
-OR 1=1: A "tautology" (always true) that forces the database to return every row.
+OR 1=1 (The Hack): You add a rule that says "Show the item if 1 equals 1." Since 1 always equals 1, the Gatekeeper says "Okay, that's true for everything!" and shows every item.
 
--- (Double Dash): Comments out the rest of the original code (like AND released = 1), bypassing the "hidden" restriction.
+-- (The Eraser): This "erases" the rest of the original rules (like the one that hides unreleased items) so the Gatekeeper doesn't see them.
 
-Result: The database ignores the "released" filter and displays all products.
+Simple Result: You turn the filter off, and the website shows you everything it was trying to hide.
 
 
 
