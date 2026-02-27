@@ -21,3 +21,12 @@
 **Vulnerability to Speed**: The "arms race" in cryptography is driven by Moore's Law. As computers get faster, older algorithms (like DES) become obsolete because they can be "brute-forced" (trying every possible key) in a reasonable amount of time.
 
 
+## PGP - Send Encrypted and Signed Message - gpg
+
+<img width="1850" height="612" alt="Näyttökuva 2026-02-27 134045" src="https://github.com/user-attachments/assets/7e238b82-2a12-4cf3-a768-69717643d54b" />
+
+<img width="1784" height="855" alt="Screenshot 2026-02-27 134717" src="https://github.com/user-attachments/assets/42449459-1766-4243-8ede-2bbb8ba7fcca" />
+
+
+
+
