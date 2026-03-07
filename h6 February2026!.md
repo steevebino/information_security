@@ -70,7 +70,7 @@ and save.
 Crack the hash and show the cracked password,
 <img width="1877" height="582" alt="Screenshot 2026-03-07 144659" src="https://github.com/user-attachments/assets/51ab591f-4d06-46d5-a997-f39ce7af104d" />
 
-## Crack the hash
+## b) Crack the hash
 
 update your system
 <img width="1857" height="1049" alt="Screenshot 2026-03-07 145628" src="https://github.com/user-attachments/assets/828436d4-48ec-4ab0-8a13-7f3ab12e6878" />
